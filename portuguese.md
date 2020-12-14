@@ -14,7 +14,7 @@
     
 </h4>
 
-## 📘 Índice 
+<h2> 📘 Índice </h2> 
 
 ## 👨‍🏫 Sobre 
 
@@ -62,4 +62,4 @@ Gostaria de fazer parte deste projeto? Clique [AQUI](#-contribuindo) e leia as i
 
 Realizado em 2020. Esse projeto está sob a [licença MIT]().
 
-## Feito com 💚 por Leonardo Campello
+<h2> Feito com 💚 por Leonardo Campello </h2>

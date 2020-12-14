@@ -14,7 +14,7 @@
     
 </h4>
 
-## 📘 Index 
+<h2> 📘 Index </h2> 
 
 ## 👨‍🏫 About 
 
@@ -62,4 +62,4 @@ Would you like to be part of this project? Click [HERE](#-contributing) and read
 
 Made in 2020. This project is under the [MIT license.]()
 
-## Made with 💚 by Leonardo Campello
+<h2> Made with 💚 by Leonardo Campello </h2>
