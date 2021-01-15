@@ -54,12 +54,31 @@ Se esta é sua primeira contribuição, [veja o seguinte tutorial.](https://gith
 
 ## 🤟 Colaboradores 
 
-### 😎 Seja um colaborador  
+Agradecemos aos seguintes desenvolvedores que contribuíram:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img 
+          src="https://avatars0.githubusercontent.com/u/66227219?s=460&u=c99b9c6d3539ff9de7823673c83df61b28f33cf4&v=4" 
+          width="100" 
+          alt="Leonardo Campello"
+        /> <br>
+        <sub>
+          <b>Leonardo Campello</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+### 😎 Seja um colaborador 
 
 Gostaria de fazer parte deste projeto? Clique [AQUI](#-contribuindo) e leia as intruções para contribuir.
 
 ## 📜 Licença
 
-Realizado em 2020. Esse projeto está sob a [licença MIT]().
+Realizado em 2020. Esse projeto está sob a [licença MIT](./LICENSE).
 
 <h2> Feito com 💚 por Leonardo Campello </h2>

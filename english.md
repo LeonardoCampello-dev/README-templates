@@ -10,7 +10,7 @@
 
 <h4 align="center">
 
-[View demo](#-demonstração) · [Report bug](#-contribuindo)
+[View demo](#-demonstration) · [Report bug](#-contributing)
     
 </h4>
 
@@ -50,16 +50,35 @@ To use, follow the steps:
 
 ## 📮 Contributing 
 
-If this is your first contribution, [see the following tutorial.]()
+If this is your first contribution, [see the following tutorial.](https://github.com/firstcontributions/first-contributions)
 
 ## 🤟 Collaborators 
 
+We thank the following developers who contributed:  
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img 
+          src="https://avatars0.githubusercontent.com/u/66227219?s=460&u=c99b9c6d3539ff9de7823673c83df61b28f33cf4&v=4" 
+          width="100" 
+          alt="Leonardo Campello"
+        /> <br>
+        <sub>
+          <b>Leonardo Campello</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ### 😎 Become a contributor  
 
-Would you like to be part of this project? Click [HERE](#-contributing) and read the instructions to contribute.
+Would you like to be part of this project? Click [HERE](https://github.com/firstcontributions/first-contributions) and read the instructions to contribute.
 
 ## 📜 License
 
-Made in 2020. This project is under the [MIT license.]()
+Made in 2020. This project is under the [MIT license.](./LICENSE)
 
 <h2> Made with 💚 by Leonardo Campello </h2>
